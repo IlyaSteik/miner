@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/miner/static/css/main.d9850dd5.chunk.css",
+    "main.css": "/miner/static/css/main.2325c5be.chunk.css",
     "main.js": "/miner/static/js/main.a10b92c6.chunk.js",
     "main.js.map": "/miner/static/js/main.a10b92c6.chunk.js.map",
     "runtime-main.js": "/miner/static/js/runtime-main.fa61a78d.js",
@@ -9,9 +9,9 @@
     "static/js/2.8eec7b62.chunk.js": "/miner/static/js/2.8eec7b62.chunk.js",
     "static/js/2.8eec7b62.chunk.js.map": "/miner/static/js/2.8eec7b62.chunk.js.map",
     "index.html": "/miner/index.html",
-    "precache-manifest.b1db496491fc22de7302d46d08134f2e.js": "/miner/precache-manifest.b1db496491fc22de7302d46d08134f2e.js",
+    "precache-manifest.bf90a4e8e8d9ad0c637caedc8e506f82.js": "/miner/precache-manifest.bf90a4e8e8d9ad0c637caedc8e506f82.js",
     "service-worker.js": "/miner/service-worker.js",
     "static/css/2.733ba2d0.chunk.css.map": "/miner/static/css/2.733ba2d0.chunk.css.map",
-    "static/css/main.d9850dd5.chunk.css.map": "/miner/static/css/main.d9850dd5.chunk.css.map"
+    "static/css/main.2325c5be.chunk.css.map": "/miner/static/css/main.2325c5be.chunk.css.map"
   }
 }

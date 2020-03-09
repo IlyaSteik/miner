@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/miner/static/css/main.1e923834.chunk.css",
-    "main.js": "/miner/static/js/main.24de2492.chunk.js",
-    "main.js.map": "/miner/static/js/main.24de2492.chunk.js.map",
+    "main.js": "/miner/static/js/main.7d4946ab.chunk.js",
+    "main.js.map": "/miner/static/js/main.7d4946ab.chunk.js.map",
     "runtime-main.js": "/miner/static/js/runtime-main.fa61a78d.js",
     "runtime-main.js.map": "/miner/static/js/runtime-main.fa61a78d.js.map",
     "static/css/2.733ba2d0.chunk.css": "/miner/static/css/2.733ba2d0.chunk.css",
     "static/js/2.c26522a1.chunk.js": "/miner/static/js/2.c26522a1.chunk.js",
     "static/js/2.c26522a1.chunk.js.map": "/miner/static/js/2.c26522a1.chunk.js.map",
     "index.html": "/miner/index.html",
-    "precache-manifest.c8cb8e839405d94279b3bfa0f7da840f.js": "/miner/precache-manifest.c8cb8e839405d94279b3bfa0f7da840f.js",
+    "precache-manifest.46044a783e2c8e0706153177d2c2cc7d.js": "/miner/precache-manifest.46044a783e2c8e0706153177d2c2cc7d.js",
     "service-worker.js": "/miner/service-worker.js",
     "static/css/2.733ba2d0.chunk.css.map": "/miner/static/css/2.733ba2d0.chunk.css.map",
     "static/css/main.1e923834.chunk.css.map": "/miner/static/css/main.1e923834.chunk.css.map"
